@@ -1,0 +1,17 @@
+[package]
+name = "crowdfunding"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule ="0xa6f4ac061cca916e38d7d02a75cd28e5fbdc6049d9783eb141d33044fa8c8725"
+
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
