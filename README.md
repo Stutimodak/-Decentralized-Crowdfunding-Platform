@@ -28,5 +28,8 @@ The platform has immense potential for growth, with future enhancements includin
 - **Secure and Trustless** – No need for intermediaries; smart contracts ensure fairness.
 - **Refund Mechanism** – If a project fails to meet milestones, backers receive refunds.
 - **Global Accessibility** – Open to anyone worldwide with access to cryptocurrency.
+  Contract Address:0xfdb04c96ed76f5e7b7893e70ac666c94f29b4c74ad31d24ecdc5d60fb0c8473a
+  ![image](https://github.com/user-attachments/assets/5eed7c35-ab8a-4552-8187-9d39d3669080)
+
 
 
